@@ -1,0 +1,16 @@
+{
+  "name": "spacegray-black-syntax",
+  "description": "Atom syntax of Spacegray Dark theme custom version",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/andrepolischuk/spacegray-black-syntax.git"
+  },
+  "main": "index.js",
+  "theme": "syntax",
+  "engines": {
+    "atom": ">=0.50.0"
+  },
+  "author": "Andrey Polischuk <andre.polischuk@gmail.com>",
+  "license": "MIT"
+}
