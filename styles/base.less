@@ -47,15 +47,12 @@ atom-text-editor,
     color: @syntax-cursor-color;
   }
 
-  .selection .region {
+  .cursor-line {
     background-color: @syntax-selection-color;
   }
-}
 
-atom-text-editor.is-focused,
-:host.is-focused {
-  .line.cursor-line {
-    background: @syntax-gutter-background-color-selected;
+  .selection .region {
+    background-color: @syntax-selection-color;
   }
 }
 
