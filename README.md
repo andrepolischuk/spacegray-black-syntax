@@ -7,7 +7,7 @@
 ## Instalation
 
 ```sh
-apm install spacegray-black-syntax
+$ apm install spacegray-black-syntax
 ```
 
 ## License
