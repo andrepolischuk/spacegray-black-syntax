@@ -2,10 +2,7 @@
   "name": "spacegray-black-syntax",
   "description": "Atom syntax of Spacegray Dark theme custom version",
   "version": "0.1.2",
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/andrepolischuk/spacegray-black-syntax.git"
-  },
+  "repository": "andrepolischuk/spacegray-black-syntax",
   "main": "index.js",
   "theme": "syntax",
   "engines": {
