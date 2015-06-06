@@ -4,10 +4,10 @@
 
   ![Screenshot](https://raw.githubusercontent.com/andrepolischuk/spacegray-black-syntax/master/screen.jpg)
 
-## Instalation
+## Install
 
 ```sh
-$ apm install spacegray-black-syntax
+apm install spacegray-black-syntax
 ```
 
 ## License
