@@ -8,6 +8,6 @@
   "engines": {
     "atom": ">=0.174.0 <2.0.0"
   },
-  "author": "Andrey Polischuk <andre.polischuk@gmail.com>",
+  "author": "Andrey Polischuk <me@andrepolischuk.com> (https://andrepolischuk.com)",
   "license": "MIT"
 }
